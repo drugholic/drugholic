@@ -6,4 +6,4 @@
 Пишу ПО под заказ, любая сложность, все заказы принимаю в Telegram, более 250+ отзывов    
 
 # My contacts 𓆰𓆪  
-[Telegram Channel](https://t.me/traurbtwstudio)  
+[Telegram Channel](https://t.me/traurstudio)  
