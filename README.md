@@ -1,6 +1,6 @@
 About me ✮  
 Изучаю множество ЯП, Реверсинг приложений  
-Имею опыт 3-х лет кодинга на C#, C++, Python, Batch, PHP, Java, Html, css, JavaScript
+Имею опыт 3-х лет кодинга на C#, C++, Python, Batch, PHP, Java, Html, css, JavaScript  
 Имею знания Objective-C, Swift, опыт использования JailBreak'а, создание читов на IOS (.ipa, .dylib)  
 Пишу ПО под заказ, любая сложность, все заказы принимаю в Telegram, более 250+ отзывов    
 
