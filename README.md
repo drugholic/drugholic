@@ -5,8 +5,7 @@
 Имею знания Objective-C, Swift, опыт использования JailBreak'а, создание читов на IOS (.ipa, .dylib)  
 Пишу ПО под заказ, любая сложность, все заказы принимаю в Telegram, более 250+ отзывов    
 
-# My contacts 𓆰𓆪
----
+# My contacts 𓆰𓆪  
 [Telegram Channel](https://t.me/traurbtwstudio)  
 ---
 [Telegram](https://t.me/aimhook)
