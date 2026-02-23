@@ -7,4 +7,3 @@
 
 # My contacts 𓆰𓆪  
 [Telegram Channel](https://t.me/traurbtwstudio)  
-[Telegram](https://t.me/aimhook)
